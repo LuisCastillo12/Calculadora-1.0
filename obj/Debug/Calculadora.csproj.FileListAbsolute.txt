@@ -1,0 +1,32 @@
+C:\Users\Angel\OneDrive\Desktop\Tarea 5 - Calculadora\Calculadora\obj\Debug\Calculadora.csprojAssemblyReference.cache
+C:\Users\Angel\OneDrive\Desktop\Tarea 5 - Calculadora\Calculadora\obj\Debug\Calculadora.Calculadora.resources
+C:\Users\Angel\OneDrive\Desktop\Tarea 5 - Calculadora\Calculadora\obj\Debug\Calculadora.Properties.Resources.resources
+C:\Users\Angel\OneDrive\Desktop\Tarea 5 - Calculadora\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.cache
+C:\Users\Angel\OneDrive\Desktop\Tarea 5 - Calculadora\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\Angel\OneDrive\Desktop\Tarea 5 - Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+C:\Users\Angel\OneDrive\Desktop\Tarea 5 - Calculadora\Calculadora\bin\Debug\Calculadora.exe
+C:\Users\Angel\OneDrive\Desktop\Tarea 5 - Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\Angel\OneDrive\Desktop\Tarea 5 - Calculadora\Calculadora\obj\Debug\Calculadora.exe
+C:\Users\Angel\OneDrive\Desktop\Tarea 5 - Calculadora\Calculadora\obj\Debug\Calculadora.pdb
+C:\Users\Oro\Desktop\Calculadora\bin\Debug\Calculadora.exe.config
+C:\Users\Oro\Desktop\Calculadora\bin\Debug\Calculadora.exe
+C:\Users\Oro\Desktop\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\Oro\Desktop\Calculadora\obj\Debug\Calculadora.csproj.AssemblyReference.cache
+C:\Users\Oro\Desktop\Calculadora\obj\Debug\Calculadora.csproj.SuggestedBindingRedirects.cache
+C:\Users\Oro\Desktop\Calculadora\obj\Debug\Calculadora.Calculadora.resources
+C:\Users\Oro\Desktop\Calculadora\obj\Debug\Calculadora.Properties.Resources.resources
+C:\Users\Oro\Desktop\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.cache
+C:\Users\Oro\Desktop\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\Oro\Desktop\Calculadora\obj\Debug\Calculadora.exe
+C:\Users\Oro\Desktop\Calculadora\obj\Debug\Calculadora.pdb
+C:\Users\Oro\Desktop\Programacion\Calculadora\bin\Debug\Calculadora.exe.config
+C:\Users\Oro\Desktop\Programacion\Calculadora\bin\Debug\Calculadora.exe
+C:\Users\Oro\Desktop\Programacion\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\Oro\Desktop\Programacion\Calculadora\obj\Debug\Calculadora.csproj.AssemblyReference.cache
+C:\Users\Oro\Desktop\Programacion\Calculadora\obj\Debug\Calculadora.csproj.SuggestedBindingRedirects.cache
+C:\Users\Oro\Desktop\Programacion\Calculadora\obj\Debug\Calculadora.Calculadora.resources
+C:\Users\Oro\Desktop\Programacion\Calculadora\obj\Debug\Calculadora.Properties.Resources.resources
+C:\Users\Oro\Desktop\Programacion\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.cache
+C:\Users\Oro\Desktop\Programacion\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\Oro\Desktop\Programacion\Calculadora\obj\Debug\Calculadora.exe
+C:\Users\Oro\Desktop\Programacion\Calculadora\obj\Debug\Calculadora.pdb
